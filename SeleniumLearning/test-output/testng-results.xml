@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-06T22:36:01 GMT" name="Regression Test" finished-at="2022-11-06T22:36:37 GMT" duration-ms="35330">
+    <groups>
+    </groups>
+    <test started-at="2022-11-06T22:36:01 GMT" name="Google Test" finished-at="2022-11-06T22:36:06 GMT" duration-ms="4579">
+      <class name="MyTests.Class21.GoogleTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:MyTests.Class21.GoogleTest@4681c175]" started-at="2022-11-06T22:36:01 GMT" name="setup" finished-at="2022-11-06T22:36:04 GMT" duration-ms="2275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="cookiesPrompt()[pri:1, instance:MyTests.Class21.GoogleTest@4681c175]" started-at="2022-11-06T22:36:04 GMT" name="cookiesPrompt" finished-at="2022-11-06T22:36:06 GMT" duration-ms="2019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookiesPrompt -->
+        <test-method signature="googleSearchBtnTest()[pri:2, instance:MyTests.Class21.GoogleTest@4681c175]" started-at="2022-11-06T22:36:06 GMT" name="googleSearchBtnTest" finished-at="2022-11-06T22:36:06 GMT" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearchBtnTest -->
+        <test-method signature="searchTest()[pri:2, instance:MyTests.Class21.GoogleTest@4681c175]" started-at="2022-11-06T22:36:06 GMT" name="searchTest" finished-at="2022-11-06T22:36:06 GMT" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method signature="urlTest()[pri:2, instance:MyTests.Class21.GoogleTest@4681c175]" started-at="2022-11-06T22:36:06 GMT" name="urlTest" finished-at="2022-11-06T22:36:06 GMT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MyTests.Class21.GoogleTest@4681c175]" started-at="2022-11-06T22:36:06 GMT" name="tearDown" finished-at="2022-11-06T22:36:06 GMT" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MyTests.Class21.GoogleTest -->
+    </test> <!-- Google Test -->
+    <test started-at="2022-11-06T22:36:06 GMT" name="OpenCartTest" finished-at="2022-11-06T22:36:09 GMT" duration-ms="2570">
+      <class name="MyTests.Class21.OpenCartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:MyTests.Class21.OpenCartTest@5a59ca5e]" started-at="2022-11-06T22:36:06 GMT" name="setup" finished-at="2022-11-06T22:36:07 GMT" duration-ms="817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerLinkTest()[pri:1, instance:MyTests.Class21.OpenCartTest@5a59ca5e]" started-at="2022-11-06T22:36:07 GMT" name="registerLinkTest" finished-at="2022-11-06T22:36:08 GMT" duration-ms="1567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerLinkTest -->
+        <test-method signature="urlTest()[pri:2, instance:MyTests.Class21.OpenCartTest@5a59ca5e]" started-at="2022-11-06T22:36:08 GMT" name="urlTest" finished-at="2022-11-06T22:36:08 GMT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MyTests.Class21.OpenCartTest@5a59ca5e]" started-at="2022-11-06T22:36:08 GMT" name="tearDown" finished-at="2022-11-06T22:36:09 GMT" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MyTests.Class21.OpenCartTest -->
+    </test> <!-- OpenCartTest -->
+    <test started-at="2022-11-06T22:36:09 GMT" name="OrangeHRMTest" finished-at="2022-11-06T22:36:37 GMT" duration-ms="28154">
+      <class name="MyTests.Class21.OrangeHRMTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:MyTests.Class21.OrangeHRMTest@5c80cf32]" started-at="2022-11-06T22:36:09 GMT" name="setup" finished-at="2022-11-06T22:36:09 GMT" duration-ms="808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="contactSalesTest()[pri:0, instance:MyTests.Class21.OrangeHRMTest@5c80cf32]" started-at="2022-11-06T22:36:09 GMT" name="contactSalesTest" finished-at="2022-11-06T22:36:37 GMT" duration-ms="27130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactSalesTest -->
+        <test-method signature="urlTest()[pri:0, instance:MyTests.Class21.OrangeHRMTest@5c80cf32]" started-at="2022-11-06T22:36:37 GMT" name="urlTest" finished-at="2022-11-06T22:36:37 GMT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MyTests.Class21.OrangeHRMTest@5c80cf32]" started-at="2022-11-06T22:36:37 GMT" name="tearDown" finished-at="2022-11-06T22:36:37 GMT" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MyTests.Class21.OrangeHRMTest -->
+    </test> <!-- OrangeHRMTest -->
+  </suite> <!-- Regression Test -->
+</testng-results>

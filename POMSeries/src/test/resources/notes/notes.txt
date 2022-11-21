@@ -1,0 +1,4 @@
+POM: Design pattern
+DD: Data driven approach
+Libs: Generic functions
+POM:
